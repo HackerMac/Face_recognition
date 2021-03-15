@@ -1,0 +1,2 @@
+# Face_recognition
+基于OpenCV开发的人脸识别打卡系统
